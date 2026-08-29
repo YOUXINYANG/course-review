@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="360" viewBox="0 0 960 360" role="img" aria-labelledby="title desc">
+  <title id="title">直流信号的傅里叶变换</title><desc id="desc">常数A的频谱是在零频率处的冲激，面积为二派A。</desc>
+  <style>text{font-family:Arial,'Microsoft YaHei',sans-serif;fill:#172033}.axis{stroke:#334155;stroke-width:2}.curve{stroke:#2563eb;stroke-width:4;fill:none}.grid{stroke:#cbd5e1;stroke-width:1}.label{font-size:22px}.small{font-size:18px;fill:#475569}.formula{font-size:25px;fill:#0f172a;font-family:Georgia,serif}</style>
+  <rect width="960" height="360" fill="#fff"/><text x="480" y="42" text-anchor="middle" class="formula">A  ↔  2πAδ(ω)</text>
+  <g transform="translate(55 82)"><text x="185" y="0" text-anchor="middle" class="label">时域：x(t)=A</text><line x1="20" y1="180" x2="390" y2="180" class="axis"/><line x1="205" y1="35" x2="205" y2="215" class="axis"/><line x1="30" y1="85" x2="380" y2="85" class="curve"/><text x="215" y="80" class="small">A</text><text x="375" y="204" class="small">t</text></g>
+  <text x="480" y="195" text-anchor="middle" font-size="34" fill="#64748b">⟶</text>
+  <g transform="translate(535 82)"><text x="185" y="0" text-anchor="middle" class="label">频域：X(jω)=2πAδ(ω)</text><line x1="20" y1="180" x2="390" y2="180" class="axis"/><line x1="205" y1="35" x2="205" y2="215" class="axis"/><path d="M205 180V55 M194 70L205 50 216 70" class="curve"/><text x="220" y="66" class="small">2πA</text><text x="385" y="204" class="small">ω</text><text x="190" y="204" class="small">0</text></g>
+  <text x="480" y="335" text-anchor="middle" class="small">直流只含零频分量；冲激箭头旁的数值表示其面积（权重）。</text>
+</svg>
