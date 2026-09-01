@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 260" role="img" aria-labelledby="title desc">
+  <title id="title">Tanh 函数图像</title><desc id="desc">Tanh 函数的 S 形曲线。</desc>
+  <rect width="480" height="260" fill="white"/>
+  <g stroke="#d1d5db" stroke-width="1"><path d="M55 55H440M55 130H440M55 205H440"/><path d="M130 30V220M240 30V220M350 30V220"/></g>
+  <g stroke="#374151" stroke-width="2"><path d="M55 130H445"/><path d="M240 225V25"/></g>
+  <path d="M65 198 C135 198 185 188 214 158 C230 142 235 136 240 130 C245 124 250 118 266 102 C295 72 345 62 430 62" fill="none" stroke="#7c3aed" stroke-width="4" stroke-linecap="round"/>
+  <g fill="#374151" font-family="Arial, sans-serif" font-size="14"><text x="62" y="22">Tanh</text><text x="447" y="135">x</text><text x="227" y="42">y</text><text x="214" y="61">1</text><text x="207" y="209">-1</text></g>
+</svg>
